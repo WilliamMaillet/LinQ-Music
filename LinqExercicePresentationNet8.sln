@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercicePresentationNet8", "LinqExercicePresentationNet8\LinqExercicePresentationNet8.csproj", "{484B3FAE-EFBD-4267-A48A-560278E1A1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSources", "DataSources\DataSources.csproj", "{DDCBF358-27E6-4C14-B141-EEB8734296B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484B3FAE-EFBD-4267-A48A-560278E1A1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484B3FAE-EFBD-4267-A48A-560278E1A1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484B3FAE-EFBD-4267-A48A-560278E1A1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484B3FAE-EFBD-4267-A48A-560278E1A1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCBF358-27E6-4C14-B141-EEB8734296B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCBF358-27E6-4C14-B141-EEB8734296B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCBF358-27E6-4C14-B141-EEB8734296B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCBF358-27E6-4C14-B141-EEB8734296B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5DBD00B-5308-448A-BBFA-C1809313B11A}
+	EndGlobalSection
+EndGlobal
